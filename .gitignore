@@ -1,0 +1,7 @@
+# Ignorar archivos de cach‚ y temporales 
+wp-content/uploads/ 
+wp-content/cache/ 
+wp-content/advanced-cache.php 
+wp-config.php 
+*.sql 
+*.log 
